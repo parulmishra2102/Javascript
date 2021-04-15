@@ -1,1 +1,1 @@
-# Javascript
+# Javascript sample application
